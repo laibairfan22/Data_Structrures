@@ -1,4 +1,5 @@
-# Data_Structrures
+# Text Editor
+
 A Text Editor using trie tree and huffman coding
 
 Welcome to Smart Text Editor, a console-based text editor developed in C++. This text editor provides users with the ability to type, edit, and save text, along with smart word completion and text compression features.
